@@ -3,6 +3,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40" height="40"/> 
 
 
+
 ## Bem vindo ao meu perfil GitHub 👋
 
 - Tenho 30 anos, moro em Porto Alegre/RS e sou um entusiasta em tecnologia! e um aventureiro em programação e também profissional na área de qualidade de software.
