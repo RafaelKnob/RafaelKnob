@@ -6,7 +6,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- Tenho 30 anos, moro em Porto Alegre/RS e sou um entusiasta em tecnologia! e um aventureiro em programação e também profissional na área de qualidade de software.
+- Tenho 34 anos, moro em Porto Alegre/RS e sou um entusiasta em tecnologia! e um aventureiro em programação e também profissional na área de qualidade de software.
 
 ## Ferramentas e Tecnologias:
 
