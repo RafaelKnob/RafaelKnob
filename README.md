@@ -1,6 +1,6 @@
 # Olá, me chamo Rafael! 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40" height="40"/> <https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
 
 
 ## Bem vindo ao meu perfil GitHub 👋
