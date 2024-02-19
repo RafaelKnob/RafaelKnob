@@ -9,10 +9,10 @@
 
 
 - 🤿 Faço parte do time DBServer onde atuo como analista de testes;
-- 
+
 
 - 📚 Tenho estudado Java, Python e iniciei meus estudos em Cypress;
-- 
+
 
 - 📫 Você pode falar comigo pelo Instagram ou pelo Facebook e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 
