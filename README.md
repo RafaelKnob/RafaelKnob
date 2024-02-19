@@ -1,7 +1,7 @@
 # Olá, me chamo Rafael! 
 
-Rafael Knob 
-[instagram](https://www.instagram.com/rafaelknob/)  
+[<img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30"/>](https://www.instagram.com/RafaelKnob/)
+
 
 ## Bem vindo ao meu perfil GitHub 👋
 
