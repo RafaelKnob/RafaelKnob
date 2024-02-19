@@ -1,6 +1,6 @@
 # Olá, me chamo Rafael! 
 
-[<img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30"/>](https://www.instagram.com/RafaelKnob/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
 
 
 ## Bem vindo ao meu perfil GitHub 👋
